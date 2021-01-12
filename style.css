@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+#title {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.txtbn {
+    height: 100%;
+    width: 97%;
+}
+.line_header {
+    font-family: 'Source Code Pro', monospace;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+}
