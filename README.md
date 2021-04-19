@@ -17,4 +17,4 @@ It is not an actual text application, like:
 
 > It will not save data on the cloud. Closing the browser will delete all of your data from the previous sessions.
 
-Please note that the software is on BETA (ver. 0.2). So you can expect glitches and bugs to occur. In that case, please, please, PLEASE, note it in the 'Issues' tab.
+Please note that the software is on BETA (ver. 0.4). So you can expect glitches and bugs to occur. In that case, please, please, PLEASE, note it in the 'Issues' tab.
