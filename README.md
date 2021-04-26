@@ -1,5 +1,6 @@
 # TextBin
 To throw away copies.
+Version R1.3 (19/04/2021)
 
 # About...
 TextBin was made in mind that most Operating Systems can only have one piece of data copied at a time.
@@ -16,5 +17,3 @@ It is not an actual text application, like:
 > It's main intended purpose is to store data on RAM. Not to save as a file on your main storage.
 
 > It will not save data on the cloud. Closing the browser will delete all of your data from the previous sessions.
-
-Please note that the software is on BETA (ver. 0.4). So you can expect glitches and bugs to occur. In that case, please, please, PLEASE, note it in the 'Issues' tab.
