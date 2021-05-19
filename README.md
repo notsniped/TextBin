@@ -17,3 +17,6 @@ It is not an actual text application, like:
 > It's main intended purpose is to store data on RAM. Not to save as a file on your main storage.
 
 > It will not save data on the cloud. Closing the browser will delete all of your data from the previous sessions.
+
+# End...
+TextBin© 2020-2021
