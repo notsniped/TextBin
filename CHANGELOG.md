@@ -7,3 +7,6 @@
 # R2.0.2 (05/20/21)
 > Added measures to provide site optimization.
 > Fixed <textarea> style issue.
+
+# R2.0.3 (05/25/21)
+> Updated main HTML File for site optimization.
