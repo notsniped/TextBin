@@ -18,5 +18,6 @@ It is not an actual text application, like:
 
 > It will not save data on the cloud. Closing the browser will delete all of your data from the previous sessions.
 
+> We are working on localstorage saving of data (COMING SOON).
 # End...
 TextBin© 2020-2021
