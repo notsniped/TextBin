@@ -13,20 +13,26 @@
         <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://shoddydev.github.io/AnimationEngine/AnimationEngine.css">
     </head>
-
+    <noscript>Enable <a href="ms-settings://">Javascript</a> to access all features in this app.</noscript>
     <body class="fade-in-ani">
-        <p class="top-nav-bar">
-            <img src="txtbin_shrtcticon.png" alt="" style="width: 25px;">
-            TextBin&nbsp;|&nbsp;
-            <a href="https://shoddydev.github.io/TextBin/" target="_blank">Start a new session.</a>
-            &nbsp;
-            <a href="https://github.com/shoddyDEV/TextBin/archive/refs/heads/main.zip" target="_blank" rel="noreferrer">Get the source code.</a>
-            &nbsp;
-            <a href="https://github.com/shoddyDEV/TextBin" target="_blank" rel="noreferrer">Open in Github</a>
-            &nbsp;
-            <input id="Input-Secure-Text-Entry" type="checkbox" onclick="secureText()">
-            Secure Text Entry
-        </p>
+        <center>
+        	<p class="top-nav-bar">
+        	    <img src="txtbin_shrtcticon.png" alt="" style="width: 25px;">
+        	    TextBin&nbsp;|&nbsp;
+        	    <a href="https://shoddydev.github.io/TextBin/" target="_blank">Start a new session.</a>
+        	    &nbsp;
+        	    <a href="https://github.com/shoddyDEV/TextBin/archive/refs/heads/main.zip" target="_blank" rel="noreferrer">Get the source code.</a>
+        	    &nbsp;
+        	    <a href="https://github.com/shoddyDEV/TextBin" target="_blank" rel="noreferrer">Open in Github</a>
+        	    &nbsp;
+				<a href="https://shoddydev.github.io/TextBin/CHANGELOG.md" target="_blank" rel="noreferrer">Read Changelog</a>
+        	    &nbsp;
+        	    <button id="Input-Change-Theme" type="button" onclick="switchMode()">Switch to Dark Mode</button>
+        	    &nbsp;
+        	    <input id="Input-Secure-Text-Entry" type="checkbox" onclick="secureText()">
+        	    Secure Text Entry
+        	</p>
+        </center>
         <div class="mini_hr"></div>
         <br>
         <textarea id="Text_Area-Input" class="txtbn" placeholder="Type Here"></textarea> 
