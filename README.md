@@ -1,6 +1,6 @@
 # TextBin
 To throw away copies.
-Version R2.0.3 (SysPatch 3) (05/25/2021)
+Version R2.1.0 (September 2021 feature update) (09/13/2021)
 
 # About...
 TextBin was made in mind that most Operating Systems can only have one piece of data copied at a time.
